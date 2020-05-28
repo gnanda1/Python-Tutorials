@@ -1,2 +1,2 @@
 # Python-Tutorials
-Basic Python Scripting for Begineers
+Basic Python Scripting for Beginners
